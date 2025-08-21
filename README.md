@@ -3,6 +3,6 @@
 ## Basic Info
 
 - **UID**: `23BCS11072`  
-- **Section**: `KR_1A`  
+- **Section**: `KRG_1A`  
 - **Branch**: B.E. CSE, Chandigarh University
 
